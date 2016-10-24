@@ -92,9 +92,6 @@
     <Compile Include="Classes\LogExpertCallback.cs" />
     <Compile Include="Classes\LogExpertNlogWrapper.cs" />
     <Compile Include="Classes\YetiLevenshtein.cs" />
-    <Compile Include="Controls\BaseLogWindow.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Entities\QualityInfo.cs" />
     <Compile Include="Entities\SpreadEntry.cs" />
     <Compile Include="Extensions\IEnumerable.cs" />
